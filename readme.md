@@ -8,4 +8,4 @@
 - [Tailblocks](https://tailblocks.cc/)
 - [Tailwind UI](https://tailwindui.com/)
 - [Templates](https://tailwindtemplates.io/)
-- [Toolbox](https://tailwindtoolbox.com/)[
+- [Toolbox](https://tailwindtoolbox.com/)
